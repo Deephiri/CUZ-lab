@@ -1,0 +1,6 @@
+{
+  "name": "CUZ Lab Equipment Borrowing System",
+  "description": "A QR-code based laboratory equipment borrowing system for Cavendish University Zambia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
